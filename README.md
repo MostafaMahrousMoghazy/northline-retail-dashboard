@@ -12,7 +12,7 @@ The dashboard analyzes **Northline Retail** sales data across multiple regions, 
 
 The project focuses on transforming raw sales transactions into meaningful KPIs, visualizations, and business insights that support data-driven decision-making.
 
-![Northline Retail Sales Dashboard](dashboard/northline_dashboard.png)
+![Northline Retail Sales Dashboard](dashboard/northline_dashboard.jpeg)
 
 ---
 
